@@ -118,7 +118,6 @@ Outside engineering, I spend time:
 
 I’m open to collaboration, conversation, and thoughtful work.
 
-- LinkedIn: https://www.linkedin.com/in/omobolaji-durojaiye-b498421b3/
-- X (Twitter): https://twitter.com/OmobolajiD58908
+- LinkedIn: [https://www.linkedin.com/in/omobolaji-durojaiye-527872294/](https://www.linkedin.com/in/omobolaji-durojaiye-527872294/)
 - Email: omobolajidurojaiye57@gmail.com
 
