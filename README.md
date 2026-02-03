@@ -14,12 +14,12 @@ Feel free to take inspiration, but please give credit if you reuse large section
 
 ## About Me
 
-I’m a software engineer focused on building **practical, production-ready products**—not just demos.  
+I’m a software engineer focused on building **practical, production-ready products**.  
 My work sits at the intersection of **engineering, product thinking, and real-world use cases**.
 
 I currently:
-- Build and iterate on SaaS products (most notably **CertifyMe**, a certificate issuance & verification platform)
-- Engineer full-stack web applications with a strong focus on UX, maintainability, and scalability
+- Build and iterate on SaaS products (most notably **ProofDeck**, a credentials issuance & verification platform)
+- Engineer full-stack web applications with a strong focus on UX, maintainability, modularity, and scalability
 - Write publicly about technology, music, conservation, and the process of building in public
 
 I care deeply about **clarity**, **systems that last**, and **software that solves actual problems**.
@@ -47,7 +47,6 @@ I work comfortably across the full stack, with an emphasis on clean architecture
 
 I prioritize:
 - Modular backend design
-- Predictable APIs
 - Frontend–backend separation
 - Codebases that are easy to reason about months later
 
@@ -55,10 +54,10 @@ I prioritize:
 
 ## Current Focus
 
-### CertifyMe — Certificate Issuance & Verification Platform
+### ProofDeck — Credentials Creation, Issuance & Verification Platform
 Founder & Engineer
 
-CertifyMe helps schools, training centers, and organizations:
+ProofDeck helps schools, training centers, and organizations:
 - Generate certificates individually or in bulk
 - Issue certificates via email
 - Verify certificates using unique IDs and QR codes
@@ -66,7 +65,7 @@ CertifyMe helps schools, training centers, and organizations:
 
 The product is actively evolving, with ongoing work around UX improvements, pricing models, and institutional licensing.
 
-Website: https://www.certifyme.com.ng/
+Website: [https://www.proofdeck.app/](https://www.proofdeck.app/)
 
 ---
 
