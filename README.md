@@ -1,122 +1,121 @@
-<!-- 
-Hello! You've found the code for my GitHub profile.
-Feel free to take inspiration, but please give credit if you reuse large sections.
+<!--
+  Omobolaji Durojaiye · GitHub Profile
+  Feel free to take inspiration. Credit appreciated if you reuse large sections.
 -->
 
 <div align="center">
-  <h1>Hi, I’m Omobolaji Durojaiye</h1>
-  <p>
-    Software Engineer · Product Builder · Writer
-  </p>
+
+```
+ ██████╗ ███╗   ███╗ ██████╗ ██████╗  ██████╗ ██╗      █████╗      ██╗██╗
+██╔═══██╗████╗ ████║██╔═══██╗██╔══██╗██╔═══██╗██║     ██╔══██╗     ██║██║
+██║   ██║██╔████╔██║██║   ██║██████╔╝██║   ██║██║     ███████║     ██║██║
+██║   ██║██║╚██╔╝██║██║   ██║██╔══██╗██║   ██║██║     ██╔══██║██   ██║██║
+╚██████╔╝██║ ╚═╝ ██║╚██████╔╝██████╔╝╚██████╔╝███████╗██║  ██║╚█████╔╝██║
+ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝
+```
+
+### Software Engineer · Founder ProofDeck · CTO @ Kasi AI
+#### Federal Capital Territory, Nigeria
+
+[![Portfolio](https://img.shields.io/badge/bolaji.tech-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.bolaji.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omobolaji-durojaiye-527872294/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omobolajidurojaiye57@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=rss&logoColor=white)](https://www.bolaji.tech/blog)
+
 </div>
 
 ---
 
-## About Me
+## What I Build
 
-I’m a software engineer focused on building **practical, production-ready products**.  
-My work sits at the intersection of **engineering, product thinking, and real-world use cases**.
-
-I currently:
-- Build and iterate on SaaS products (most notably **ProofDeck**, a credentials issuance & verification platform)
-- Engineer full-stack web applications with a strong focus on UX, maintainability, modularity, and scalability
-- Write publicly about technology, music, conservation, and the process of building in public
-
-I care deeply about **clarity**, **systems that last**, and **software that solves actual problems**.
+I create softwares to simplify life and business workflow.
 
 ---
 
-## Tech Stack & Tools
+## Current Projects
 
-I work comfortably across the full stack, with an emphasis on clean architecture and developer experience.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Languages & Frameworks**
-- Python (Flask, FastAPI)
-- JavaScript (React)
-- HTML5, CSS3
+### 🤖 [Kasi](https://usekasi.com/)
+**AI Sales Agent for Social Commerce**
 
-**Databases & Infrastructure**
-- MySQL
-- RESTful APIs
-- Authentication & verification systems
+The sharpest digital sales rep you'll ever have. While you're sleeping, driving, or busy with production — Kasi is talking to your customers, answering questions, negotiating, closing deals, and handling logistics.
 
-**Tooling**
-- Git & GitHub
-- Postman
-- VS Code
+Built for vendors and businesses operating across WhatsApp, Instagram, and Facebook. It understands the way business is done and never gets tired.
 
-I prioritize:
-- Modular backend design
-- Frontend–backend separation
-- Codebases that are easy to reason about months later
+`Python` `OpenAI` `WhatsApp API` `FastAPI`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Current Focus
+### 🎓 [ProofDeck](https://www.proofdeck.app/)
+**Credentials Issuance & Verification Platform**
 
-### ProofDeck — Credentials Creation, Issuance & Verification Platform
-Founder & Engineer
+Helps schools, training centres, and organisations generate certificates individually or in bulk, issue them via email, and verify them using unique IDs and QR codes.
 
-ProofDeck helps schools, training centers, and organizations:
-- Generate certificates individually or in bulk
-- Issue certificates via email
-- Verify certificates using unique IDs and QR codes
-- Reduce fraud and administrative overhead
+Reducing fraud and administrative overhead — one certificate at a time.
 
-The product is actively evolving, with ongoing work around UX improvements, pricing models, and institutional licensing.
+`Python` `Flask` `MySQL` `QR Systems`
 
-Website: [https://www.proofdeck.app/](https://www.proofdeck.app/)
+</td>
+</tr>
+</table>
 
 ---
 
-## Writing & Public Work
+## Tech Stack
 
-I maintain a personal blog where I publish long-form and short-form writing across different themes:
-
-- Software & product building
-- Music (especially under-documented older records)
-- Conservation
-- Personal notes on growth and learning
-
-I also experiment with formats like **Readlists** — curated article series designed for deep exploration of a single idea.
-
-Blog: https://www.bolaji.tech/blog  
-Portfolio: https://www.bolaji.tech/
+```python
+stack = {
+    "languages":    ["Python", "JavaScript", "HTML5", "CSS3"],
+    "frameworks":   ["Flask", "FastAPI", "React"],
+    "databases":    ["MySQL", "PostgreSQL"],
+    "tools":        ["Git", "GitHub", "Postman", "VS Code"],
+    "principles":   ["Modular design", "Clean architecture",
+                     "Frontend–backend separation",
+                     "Code that's readable six months later"]
+}
+```
 
 ---
 
 ## GitHub Activity
 
-I use GitHub as a working space, not just a showcase.  
-Most repositories reflect real projects, experiments, refactors, and ongoing learning.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmobolajiDurojaiye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmobolajiDurojaiye&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmobolajiDurojaiye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OmobolajiDurojaiye&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmobolajiDurojaiye&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
 
 ## Beyond Code
 
-Outside engineering, I spend time:
-- Writing and thinking deeply about systems and culture
-- Exploring music as both history and expression
-- Learning how products, businesses, and people grow over time
+I write long-form and short-form content across things I actually think about:
+
+- **Software & building** — the process, the decisions, the tradeoffs
+- **Music** — especially under-documented older records that deserve more attention
+- **Conservation** — systems thinking applied to the natural world
+- **Growth** — personal notes on learning, building, and staying honest with yourself
+
+I also experiment with **Readlists** — curated article series built for deep exploration of a single idea.
+
+→ [bolaji.tech/blog](https://www.bolaji.tech/blog)
 
 ---
 
-## Connect
+<div align="center">
 
-I’m open to collaboration, conversation, and thoughtful work.
+*I use GitHub as a working space, not just a showcase.*
+*Most repositories here reflect real projects, experiments, refactors, and ongoing learning.*
 
-- LinkedIn: [https://www.linkedin.com/in/omobolaji-durojaiye-527872294/](https://www.linkedin.com/in/omobolaji-durojaiye-527872294/)
-- Email: omobolajidurojaiye57@gmail.com
-
+</div>
