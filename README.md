@@ -38,18 +38,6 @@ I create softwares to simplify life and business workflow.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Kasi](https://usekasi.com/)
-**AI Sales Agent for Social Commerce**
-
-The sharpest digital sales rep you'll ever have. While you're sleeping, driving, or busy with production — Kasi is talking to your customers, answering questions, negotiating, closing deals, and handling logistics.
-
-Built for vendors and businesses operating across WhatsApp, Instagram, and Facebook. It understands the way business is done and never gets tired.
-
-`Python` `OpenAI` `WhatsApp API` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎓 [ProofDeck](https://www.proofdeck.app/)
 **Credentials Issuance & Verification Platform**
 
@@ -57,7 +45,15 @@ Helps schools, training centres, and organisations generate certificates individ
 
 Reducing fraud and administrative overhead — one certificate at a time.
 
-`Python` `Flask` `MySQL` `QR Systems`
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Kasi](https://usekasi.com/)
+**AI Sales Agent for Social Commerce**
+
+The sharpest digital sales rep you'll ever have. While you're sleeping, driving, or busy with production — Kasi is talking to your customers, answering questions, negotiating, closing deals, and handling logistics.
+
+Built for vendors and businesses operating across WhatsApp, Instagram, and Facebook. It understands the way business is done and never gets tired.
 
 </td>
 </tr>
@@ -65,35 +61,10 @@ Reducing fraud and administrative overhead — one certificate at a time.
 
 ---
 
-## Tech Stack
-
-```python
-stack = {
-    "languages":    ["Python", "JavaScript", "HTML5", "CSS3"],
-    "frameworks":   ["Flask", "FastAPI", "React"],
-    "databases":    ["MySQL", "PostgreSQL"],
-    "tools":        ["Git", "GitHub", "Postman", "VS Code"],
-    "principles":   ["Modular design", "Clean architecture",
-                     "Frontend–backend separation",
-                     "Code that's readable six months later"]
-}
-```
-
----
-
 ## GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmobolajiDurojaiye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmobolajiDurojaiye&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OmobolajiDurojaiye&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmobolajiDurojaiye&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
